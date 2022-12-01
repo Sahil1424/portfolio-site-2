@@ -1,0 +1,42 @@
+body {
+    background-color: grey;
+}
+
+body figure img{
+    width: max-content;
+    
+}
+
+
+body nav ul{
+    display: flex;
+    justify-content: space-around;
+    background: brown;
+}
+
+body strong {
+    color: blue;
+}
+ h1{
+    font-style: blue;
+}
+
+body nav li{
+    padding: 1.5em;
+}
+
+body nav a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+body nav a:hover {
+    color: greenyellow;
+}
+
+h1, h2{
+    text-align: center;
+    font-size: 3em;
+    background-color: gray;
+    font-style: italic;
+}
